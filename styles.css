@@ -1,0 +1,186 @@
+li {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.centre {
+  padding-left: 280px;
+}
+
+.cl {
+  background-color: white;
+}
+
+.nav-link {
+  color: black;
+  font-weight: bold;
+}
+
+.intend {
+  padding-left: 250px;
+}
+
+.bag {
+  background-image: linear-gradient(white, #FAD9E6);
+}
+
+.heading {
+  padding: 80px 30px 20px 80px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600px;
+}
+
+.head {
+  font-size: 45px;
+}
+
+.push {
+  padding-top: 100px;
+}
+
+.sub {
+  padding-left: 80px;
+  line-height: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.Pinks {
+  color: #FF5D8F;
+}
+
+.btn1 {
+  padding: 40px 0px 55px 80px
+}
+
+.btn {
+  padding: 8px 25px;
+  color: white;
+  background-color: #FF5D8F;
+}
+
+.play {
+  padding-left: 20px;
+  font-size: 25px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.image {
+  padding: 0px 0px 0px 180px;
+  height: 500px;
+}
+
+.Heading2 {
+  padding: 60px 0 20px 0;
+}
+
+.Heading2-heading {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.Heading2-sub {
+  text-align: center;
+  padding: 10px 500px 0 500px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 40px;
+}
+
+.col1 {
+  padding: 40px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.text-card {
+  text-align: center;
+  padding: 10px 40px 0 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.courses {
+  padding: 60px 0 20px 0;
+}
+
+.Heading3-heading {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  padding: 0 400px;
+}
+
+.Heading3-sub {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.column1 {
+  padding-top: 80px;
+  margin-bottom: 10px;
+  float: left;
+  left: 55px;
+  width: 120px;
+  position: relative;
+}
+
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row2{
+  padding-top: 80px;
+  margin-bottom: 80px;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 1px;
+  left: 30px;
+  color: black;
+  font-size: 22px;
+}
+
+.bottom-left1 {
+  position: absolute;
+  bottom: 1px;
+  left: 410px;
+  color: black;
+  font-size: 22px;
+}
+
+.bottom-left2 {
+  position: absolute;
+  bottom: 1px;
+  left: 780px;
+  color: black;
+  font-size: 22px;
+}
+
+.Test {
+  border-radius: 2%;
+  height: 200px;
+  width: 400px;
+  -webkit-box-shadow: -5px 10px 31px -20px rgba(0, 0, 0, 1);
+  -moz-box-shadow: -5px 10px 31px -20px rgba(0, 0, 0, 1);
+  box-shadow: -5px 10px 31px -20px rgba(0, 0, 0, 1);
+}
